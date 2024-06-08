@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCbW7nEZPeUmWIbYhq-kFLahCFT8GqK_1M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>363722207384</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.kushal.teachtool.teachtool</string>
+	<key>PROJECT_ID</key>
+	<string>teachtool-8f884</string>
+	<key>STORAGE_BUCKET</key>
+	<string>teachtool-8f884.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:363722207384:ios:e506fefd9efa6e359a60ed</string>
+</dict>
+</plist>

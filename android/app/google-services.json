@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "363722207384",
+    "project_id": "teachtool-8f884",
+    "storage_bucket": "teachtool-8f884.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363722207384:android:a731242e46e01e829a60ed",
+        "android_client_info": {
+          "package_name": "com.kushal.teachtool.teachtool"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8Gex_JsrCbkoEd1Hg7EQEAbBcIcev65M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
